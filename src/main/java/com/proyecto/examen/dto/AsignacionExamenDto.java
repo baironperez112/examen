@@ -5,6 +5,7 @@ import lombok.Data;
 @Data
 public class AsignacionExamenDto {
 
+	
 	private Integer id;
 	
 	private EstudianteDto estudiante;
