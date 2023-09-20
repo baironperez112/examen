@@ -32,7 +32,7 @@ public class AsignacionExamenController {
 	
 	
 	/**
-	 * Metodo encargado de exponer el servicio para obtener todos las asignacionExamens
+	 * Metodo encargado de exponer el servicio para obtener todos las asignacionExamens jjjj
 	 * @return
 	 * @throws Exception
 	 */
